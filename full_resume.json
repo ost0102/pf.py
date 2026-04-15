@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "name": "오승택",
+        "gender": "남",
+        "birth_year": 1996,
+        "age_korean": 30,
+        "contact": {
+            "phone": "010-3468-3496",
+            "email": "tmdxor0102@naver.com"
+        },
+        "address": "서울 광진구 자양동",
+        "desired_conditions": {
+            "salary": "4,000만원 이상",
+            "type": "정규직"
+        }
+    },
+    "summary": "퍼블리싱과 개발을 잇는, 사용자 중심의 프론트엔드 개발자 [cite: 348]",
+    "education": [
+        {
+            "school": "대림대학교",
+            "major": "컴퓨터공학과",
+            "status": "졸업",
+            "period": "2018.03-2022.02",
+            "gpa": "3.6/4.5 [cite: 374, 377, 379]"
+        },
+        {
+            "school": "원광대학교",
+            "major": "경영정보학부",
+            "status": "중퇴",
+            "period": "2015.03-2016.06",
+            "gpa": "4.2/4.5 [cite: 372, 373]"
+        }
+    ],
+    "skills": {
+        "frontend": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "TypeScript",
+            "SASS/SCSS",
+            "React",
+            "Next.js",
+            "Jquery [cite: 364, 370, 371]"
+        ],
+        "backend_db": [
+            "PHP",
+            "ASP.NET",
+            "C#",
+            "Codeigniter",
+            "MSSQL",
+            "Oracle [cite: 365, 366, 367, 368, 369]"
+        ],
+        "tools": [
+            "Git",
+            "SVN",
+            "Figma",
+            "Photoshop",
+            "Postman",
+            "Jira [cite: 366, 370, 405, 590]"
+        ],
+        "specialty": [
+            "반응형 웹",
+            "웹 표준/접근성",
+            "애니메이션(GSAP, Swiper) [cite: 387, 388, 390]"
+        ]
+    },
+    "work_experience": [
+        {
+            "company": "퍼플스",
+            "role": "시스템 개발팀 대리/팀장",
+            "period": "2025.05-재직중",
+            "tasks": [
+                "일정 관리",
+                "협업 환경 구축",
+                "React 컴포넌트 설계",
+                "퍼블리싱 총괄 [cite: 380, 381, 385, 391]"
+            ]
+        },
+        {
+            "company": "양재아이티(주)",
+            "role": "개발2팀 사원",
+            "period": "2022.09-2024.09",
+            "tasks": [
+                "CRM/ERP 유지보수",
+                "서버 인프라 및 IDC 관리",
+                "RPA(삼성 SDS Brity) 운영 [cite: 416, 417, 606, 613]"
+            ]
+        },
+        {
+            "company": "티벨",
+            "role": "ICT팀/DevOps 사원",
+            "period": "2022.01-2022.08",
+            "tasks": [
+                "앱 QA",
+                "Postman API 테스트",
+                "JS 프로그램 유지보수 [cite: 427, 429, 432]"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "신도리코 홈페이지 외주 제작",
+            "tech": "HTML, SCSS, JS, GSAP",
+            "achievement": "GDWeb 수상 [cite: 537, 540]",
+            "desc": "인터랙션 중심의 반응형 웹 구현 [cite: 537]"
+        },
+        {
+            "title": "특송 화물 Tracking 개발",
+            "tech": "ASP.NET, C#, Jquery",
+            "desc": "운송기사 PDA용 실시간 화물 추적 시스템 [cite: 484, 485]"
+        }
+    ],
+    "self_intro_keywords": [
+        "ESTP",
+        "책임감",
+        "소통 중심",
+        "지속적 학습 [cite: 565, 570, 571, 651]"
+    ],
+    "portfolio_links": [
+        "https://git-dash-dun.vercel.app/",
+        "https://github.com/ost0102",
+        "https://wwww.sindoh.com/ [cite: 684]"
+    ]
+}
